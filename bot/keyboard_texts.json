@@ -1,0 +1,26 @@
+{
+  "one_time": false,
+  "buttons": [
+    [{
+      "action": {
+        "type": "text",
+        "label": "Текст 0"
+      },
+      "color": "default"
+    }],
+    [{
+      "action": {
+        "type": "text",
+        "label": "Текст 1"
+      },
+      "color": "default"
+    }],
+    [{
+      "action": {
+        "type": "text",
+        "label": "Текст 2"
+      },
+      "color": "default"
+    }]
+  ]
+}
